@@ -1,0 +1,5 @@
+# ninja log v6
+6	66	7885645876044531	CMakeFiles/image_to_ascii.dir/src/grayscale.c.obj	6cd2362ea0ff2c7a
+8	67	7885645876074528	CMakeFiles/image_to_ascii.dir/src/convolution.c.obj	692d803f6d63c807
+3	335	7885645876014522	CMakeFiles/image_to_ascii.dir/src/main.c.obj	5874f867078836c3
+335	405	7885645879338938	image_to_ascii.exe	a94fe0069f92cd96
