@@ -1,3 +1,0 @@
-C:/Users/shekh/Desktop/Skole/projects/image-to-ascii/cmake-build-debug/CMakeFiles/image_to_ascii.dir
-C:/Users/shekh/Desktop/Skole/projects/image-to-ascii/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/shekh/Desktop/Skole/projects/image-to-ascii/cmake-build-debug/CMakeFiles/rebuild_cache.dir

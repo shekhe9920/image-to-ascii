@@ -59,6 +59,18 @@ For example:
 explorer.exe ../saved_ascii_art
 ```
 ---
+## Project Structure
+```bash
+image-to-ascii/
+   ├── demo_images/               # Example images
+   ├── include/                   # Header files
+   ├── saved_ascii_art/           # Saved ASCII files
+   ├── src/                       # Source code files
+   ├── CMakeLists.txt             # CMake build file
+   ├── README.md                  # Project documentation
+   └── .gitignore                 # Git ignore file
+```
+---
 
 ## Output
 
